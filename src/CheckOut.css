@@ -1,0 +1,48 @@
+
+
+.headings{
+    margin-left: 43%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+}
+
+
+.checkOuts{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 1%;
+}
+
+.firstOnesss{
+    width: 70%;
+
+}
+
+.secondOnes{
+    width: 30%;
+}
+
+.leftSides{
+    font-weight: bold;
+    font-size: 15px;
+    width: 150%;
+}
+
+.rightSidesOne{
+    margin-left: 2%;
+}
+
+.cards{
+    width : 130%;
+    margin-right: 4%;
+}
+
+.pay{
+    width: 100%;
+    background-color: rgb(172, 172, 97);
+    font-weight: bold;
+}

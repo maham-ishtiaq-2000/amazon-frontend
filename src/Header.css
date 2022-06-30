@@ -1,0 +1,58 @@
+.header{
+    display : flex ;
+    flex-direction: row;
+    background-color: #242526;
+    
+}
+
+.header img{
+    width : 150px;
+    height: 50px;
+}
+
+.paragraphs{
+    color: white;
+    margin-right: 2%;
+    font-size: 10px;
+    margin-left: 2%;
+    margin-top: 0.5%;
+}
+
+.paragraphs p span{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.searchBar{
+    width : 65%;
+    display: flex;
+    flex-direction: row;
+}
+.searchBar input{
+    width: 100%;
+    height: 30%;
+    margin-top: 1%;
+    margin-left: 2%;
+    padding: 1.5%;
+    text-decoration: none;
+    outline: none;
+}
+
+.searchBar i{
+    background-color: rgb(172, 172, 97);
+    height: 53%;
+    margin-top: 1%;
+    padding: 0.5%;
+
+}
+
+.cart{
+    color: white;
+    margin-top: 1%;
+    size: 20px;
+}
+
+.cart_items{
+    color: white;
+    size: 20px;
+}

@@ -1,0 +1,38 @@
+.product{
+    width: 100%;
+    background-color: white;
+    padding: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 40%;
+    margin-bottom: 5%;
+}
+
+.checked {
+    color: orange;
+  }
+
+.product button{
+    background-color: rgb(243, 243, 97);
+}
+
+.images-set{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.images-set img{
+    width: 50%;
+    align-self: center;
+}
+
+.images-set button{
+    width: 25%;
+    align-self: center;
+    margin-top: 2%;
+}
+
+.price{
+    font-weight: bold;
+}

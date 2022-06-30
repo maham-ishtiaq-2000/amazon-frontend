@@ -1,0 +1,27 @@
+.hero { 
+    position: relative; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    background-image: url('https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg');
+    background-size: cover;
+   
+}
+
+
+
+.product_row{
+    width: 90%;
+    margin-left: 6%;
+    margin-right: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.all_products{
+    margin-top: 23%;
+    margin-left: 23%;
+}
+
+

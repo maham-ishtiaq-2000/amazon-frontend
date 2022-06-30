@@ -1,0 +1,62 @@
+.orders{
+    width: 100%;
+    height: 100%;
+    padding: 1%;
+    background-color: white;
+}
+
+.checkoutproducts{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+    width: 70%;
+    height: 70%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.checkoutproducts img{
+    width: 30%;
+  
+}
+
+.paras{
+    font-size: 5px;
+ 
+}
+
+.texts{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.texts button{
+    margin-top: 5%;
+    padding: 0.5%;
+    background-color: rgb(172, 172, 97);
+    width : 200%;
+    margin-left: 2%;
+}
+
+.descs{
+    margin-left: 2%;
+  
+    
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.prices{
+    margin-left: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.headingss{
+    margin-left: 42%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-size: 35px;
+}
